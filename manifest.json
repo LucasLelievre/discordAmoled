@@ -6,7 +6,7 @@
         "48": "icons/icon.svg",
         "96": "icons/icon.svg"
     },
-    "homepage_url": "https://www.lucaslelievre.com",
+    "homepage_url": "https://github.com/LucasLelievre/discordAmoled",
     "manifest_version": 3,
     "version": "1.2",
     "browser_specific_settings": {
